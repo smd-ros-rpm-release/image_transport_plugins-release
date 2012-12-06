@@ -1,4 +1,4 @@
-From 46ddec0db415bd9facb7bf41ddb145099c4ab75d Mon Sep 17 00:00:00 2001
+From 4c08f9480bbb5eee7a4d1f69652acee8f5204a46 Mon Sep 17 00:00:00 2001
 From: Julius Kammerl <jkammerl@rbh.willowgarage.com>
 Date: Wed, 5 Dec 2012 19:27:48 -0800
 Subject: [PATCH] class_loader_hide_library_symbols
