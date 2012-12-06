@@ -1,4 +1,4 @@
-From c14490a437e6c192bcb115eba9c2abd8bc8beed9 Mon Sep 17 00:00:00 2001
+From 399a0d5a251415021a5ffbb1a50cb101eb13bceb Mon Sep 17 00:00:00 2001
 From: Julius Kammerl <jkammerl@rbh.willowgarage.com>
 Date: Wed, 5 Dec 2012 19:31:31 -0800
 Subject: [PATCH] added CMake class_loader_hide_library_symbols
