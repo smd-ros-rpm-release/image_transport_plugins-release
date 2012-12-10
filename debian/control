@@ -1,0 +1,12 @@
+Source: ros-groovy-compressed-image-transport
+Section: misc
+Priority: extra
+Maintainer: Julius Kammerl <jkammerl@willowgarage.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-groovy-dynamic-reconfigure,ros-groovy-catkin,ros-groovy-cv-bridge,ros-groovy-image-transport
+Homepage: http://www.ros.org/wiki/image_transport_plugins
+Standards-Version: 3.9.2
+
+Package: ros-groovy-compressed-image-transport
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-groovy-dynamic-reconfigure,ros-groovy-cv-bridge,ros-groovy-image-transport
+Description: Compressed_image_transport provides a plugin to image_transport for transparently sending images encoded as JPEG or PNG.
