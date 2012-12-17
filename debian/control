@@ -1,0 +1,12 @@
+Source: ros-groovy-theora-image-transport
+Section: misc
+Priority: extra
+Maintainer: Julius Kammerl <jkammerl@willowgarage.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-groovy-dynamic-reconfigure,ros-groovy-catkin,ros-groovy-pluginlib,ros-groovy-rosbag,ros-groovy-image-transport,ros-groovy-tf,libogg-dev,ros-groovy-message-generation,ros-groovy-cv-bridge,libtheora-dev
+Homepage: http://www.ros.org/wiki/image_transport_plugins
+Standards-Version: 3.9.2
+
+Package: ros-groovy-theora-image-transport
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-groovy-dynamic-reconfigure,ros-groovy-pluginlib,ros-groovy-rosbag,ros-groovy-message-runtime,ros-groovy-image-transport,libogg-dev,ros-groovy-tf,ros-groovy-cv-bridge,libtheora-dev
+Description: Theora_image_transport provides a plugin to image_transport for transparently sending an image stream encoded with the Theora codec.
