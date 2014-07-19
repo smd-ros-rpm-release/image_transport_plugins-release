@@ -1,3 +1,28 @@
+## image_transport_plugins (indigo) - 1.9.1-0
+
+The packages in the `image_transport_plugins` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release -r indigo -t indigo image_transport_plugins` on `Sat, 19 Jul 2014 01:38:48 -0000`
+
+These packages were released:
+- `compressed_depth_image_transport`
+- `compressed_image_transport`
+- `image_transport_plugins`
+- `theora_image_transport`
+
+Version of package(s) in repository `image_transport_plugins`:
+- upstream repository: https://github.com/ros-perception/image_transport_plugins.git
+- release repository: https://github.com/ros-gbp/image_transport_plugins-release.git
+- rosdistro version: `1.9.0-0`
+- old version: `1.9.0-0`
+- new version: `1.9.1-0`
+
+Versions of tools used:
+- bloom version: `0.5.11-dev`
+- catkin_pkg version: `0.2.2`
+- rosdep version: `0.10.27`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## image_transport_plugins (indigo) - 1.9.0-0
 
 The packages in the `image_transport_plugins` repository were released into the `indigo` distro by running `/home/tfoote/work/bloomenv/bin/bloom-release image_transport_plugins -r indigo -t indigo --edit` on `Sat, 17 May 2014 00:08:33 -0000`
